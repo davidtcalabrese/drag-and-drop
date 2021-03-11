@@ -7,7 +7,7 @@ body {
     position: relative;
     height: 150px;
     width: 150px;
-    top: 5px;
+    top: 8px;
     left: 5px;
     cursor: pointer;
 }
@@ -18,7 +18,7 @@ body {
     height: 150px;
     width: 150px;
     top: 5px;
-    left: 5px;
+    left: 8px;
     cursor: pointer;
 }
 
@@ -30,15 +30,15 @@ body {
     width: 160px;
     margin: 10px;
     border: 3px salmon solid;
-    background-color: white;
+    background-color: #FFFF1F;
 }
 
 .hold {
-    border: solid #ccc 4px;
+    border: solid #ccD#4c 4px;
 }
 
 .hovered {
-    background: #f4f4f4f4;
+    background: #f4f4f4e4;
     border-style: dashed;
 }
 
